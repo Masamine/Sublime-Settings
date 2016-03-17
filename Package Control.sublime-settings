@@ -1,0 +1,39 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"arduino-cli",
+		"Arduino-like IDE",
+		"AutoFileName",
+		"BracketHighlighter",
+		"ColorPicker",
+		"Create Js Completions",
+		"Emmet",
+		"Goto-CSS-Declaration",
+		"Haxe",
+		"haxelang",
+		"hextoASCII",
+		"LineEndings",
+		"Material Theme",
+		"Package Control",
+		"Sass",
+		"SASS Build",
+		"SASS Snippets",
+		"SassBeautify",
+		"SCSS",
+		"SublimeHighlight",
+		"SublimeLinter",
+		"Theme - Cobalt2",
+		"Theme - Flatland",
+		"Theme - Freesia",
+		"Theme - Orchis",
+		"TikZ"
+	],
+	"repositories":
+	[
+		"https://github.com/n1k0/SublimeHighlight/tree/python3"
+	]
+}
