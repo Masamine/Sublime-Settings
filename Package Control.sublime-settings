@@ -31,11 +31,14 @@
 		"SCSS Snippets",
 		"SublimeHighlight",
 		"SublimeLinter",
+		"Swift",
+		"Swift Foundation Completions",
 		"Theme - Cobalt2",
 		"Theme - Flatland",
 		"Theme - Freesia",
 		"Theme - Orchis",
-		"TikZ"
+		"TikZ",
+		"WordPress"
 	],
 	"repositories":
 	[
