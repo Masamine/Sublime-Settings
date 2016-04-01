@@ -2,12 +2,14 @@
 	"color_scheme": "Packages/User/SublimeLinter/Triplet (SL).tmTheme",
 	"color_theme": "Freesia.sublime-theme",
 	"draw_white_space": "all",
-	"font_size": 10,
+	"font_face": "Myrica M",
+	"font_size": 9,
 	"hot_exit": false,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	"line_padding_top": 2,
 	"open_files_in_new_window": false,
 	"remember_open_files": false,
 	"tab_size": 2,
