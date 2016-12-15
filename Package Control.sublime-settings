@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"AdvancedNewFile",
 		"arduino-cli",
 		"Arduino-like IDE",
 		"AutoFileName",
@@ -23,6 +24,7 @@
 		"JavaScriptNext - ES6 Syntax",
 		"JSX",
 		"LineEndings",
+		"LiveStyle",
 		"Material Theme",
 		"Package Control",
 		"ReactJS",
@@ -34,6 +36,9 @@
 		"SCSS Compiler",
 		"SCSS Expander",
 		"SCSS Snippets",
+		"Stylus",
+		"Stylus Clean Completions",
+		"Stylus-Snippets",
 		"SublimeHighlight",
 		"SublimeLinter",
 		"SublimeLinter-jsxhint",
