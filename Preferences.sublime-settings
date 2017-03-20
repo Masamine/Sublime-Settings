@@ -2,7 +2,7 @@
 	"color_scheme": "Packages/User/SublimeLinter/Triplet (SL).tmTheme",
 	"color_theme": "Freesia.sublime-theme",
 	"draw_white_space": "all",
-	"font_size": 8,
+	"font_size": 9,
 	"hot_exit": false,
 	"ignored_packages":
 	[
