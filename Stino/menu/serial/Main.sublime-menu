@@ -1,0 +1,44 @@
+[
+	{
+		"caption": "Arduino",
+		"mnemonic": "A",
+		"id": "arduino",
+		"children":
+		[
+			{
+				"caption": "Serial Port",
+				"id": "stino_serial_port",
+				"children":
+				[
+					{
+						"caption": "Refresh",
+						"id": "stino_refresh_serials",
+						"command": "stino_refresh_serials"
+					},
+					{"caption": "-"},
+					{
+						"caption": "/dev/cu.Bluetooth-Incoming-Port",
+						"id": "stino_serial_/dev/cu.Bluetooth-Incoming-Port",
+						"command": "stino_select_serial",
+						"args": {"serial_port": "/dev/cu.Bluetooth-Incoming-Port"},
+						"checkbox": true
+					},
+					{
+						"caption": "/dev/cu.Bluetooth-Modem",
+						"id": "stino_serial_/dev/cu.Bluetooth-Modem",
+						"command": "stino_select_serial",
+						"args": {"serial_port": "/dev/cu.Bluetooth-Modem"},
+						"checkbox": true
+					},
+					{
+						"caption": "/dev/cu.iPodtouch5-WirelessiAP",
+						"id": "stino_serial_/dev/cu.iPodtouch5-WirelessiAP",
+						"command": "stino_select_serial",
+						"args": {"serial_port": "/dev/cu.iPodtouch5-WirelessiAP"},
+						"checkbox": true
+					}
+				]
+			}
+		]
+	}
+]

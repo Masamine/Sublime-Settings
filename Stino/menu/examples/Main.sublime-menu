@@ -1,0 +1,63 @@
+[
+	{
+		"caption": "Arduino",
+		"mnemonic": "A",
+		"id": "arduino",
+		"children":
+		[
+			{
+				"caption": "Open Example",
+				"id": "stino_examples",
+				"children":
+				[
+					{
+						"caption": "Refresh",
+						"id": "stino_refresh_examples",
+						"command": "stino_refresh_examples"
+					},
+					{"caption": "-"},
+					{"caption": "-"},
+					{
+						"caption": "Adafruit_NeoPixel",
+						"id": "stino_example_Adafruit_NeoPixel",
+						"children":
+						[
+							{"caption": "-"},
+							{
+								"caption": "examples",
+								"id": "stino_example_examples",
+								"children":
+								[
+									{"caption": "-"},
+									{
+										"caption": "buttoncycler",
+										"id": "stino_example_buttoncycler",
+										"command": "stino_open_example",
+										"args": {"example_path": "/Users/doko/Documents/Arduino/libraries/Adafruit_NeoPixel/examples/buttoncycler"}
+									},
+									{
+										"caption": "RGBWstrandtest",
+										"id": "stino_example_RGBWstrandtest",
+										"children":
+										[
+											{"caption": "-"}										]
+									},
+									{
+										"caption": "simple",
+										"id": "stino_example_simple",
+										"command": "stino_open_example",
+										"args": {"example_path": "/Users/doko/Documents/Arduino/libraries/Adafruit_NeoPixel/examples/simple"}
+									},
+									{
+										"caption": "strandtest",
+										"id": "stino_example_strandtest",
+										"command": "stino_open_example",
+										"args": {"example_path": "/Users/doko/Documents/Arduino/libraries/Adafruit_NeoPixel/examples/strandtest"}
+									}								]
+							}						]
+					}
+				]
+			}
+		]
+	}
+]

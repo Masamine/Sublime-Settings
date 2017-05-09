@@ -1,0 +1,119 @@
+[
+	{
+		"caption": "Arduino",
+		"mnemonic": "A",
+		"id": "arduino",
+		"children":
+		[
+			{
+				"caption": "Open Sketch",
+				"id": "stino_sketchbook",
+				"children":
+				[
+					{
+						"caption": "Refresh",
+						"id": "stino_refresh_sketchbook",
+						"command": "stino_refresh_sketchbook"
+					},
+					{
+						"caption": "Change Location...",
+						"id": "stino_change_sketchbook_location",
+						"command": "stino_change_sketchbook_location"
+					},
+					{
+						"caption": "In New Window",
+						"id": "stino_open_in_new_win",
+						"command": "stino_open_in_new_win",
+						"checkbox": true
+					},
+					{"caption": "-"},					{
+						"caption": "New Sketch...",
+						"id": "stino_new_sketch",
+						"command": "stino_new_sketch"
+					},
+					{"caption": "-"},
+					{
+						"caption": "analogIO",
+						"id": "stino_sketch_analogIO",
+						"command": "stino_open_sketch",
+						"args": {"sketch_path": "/Users/doko/Documents/Arduino/analogIO"}
+					},
+					{
+						"caption": "Blink00",
+						"id": "stino_sketch_Blink00",
+						"command": "stino_open_sketch",
+						"args": {"sketch_path": "/Users/doko/Documents/Arduino/Blink00"}
+					},
+					{
+						"caption": "breadboard_FullColor",
+						"id": "stino_sketch_breadboard_FullColor",
+						"command": "stino_open_sketch",
+						"args": {"sketch_path": "/Users/doko/Documents/Arduino/breadboard_FullColor"}
+					},
+					{
+						"caption": "breadboard_LED",
+						"id": "stino_sketch_breadboard_LED",
+						"command": "stino_open_sketch",
+						"args": {"sketch_path": "/Users/doko/Documents/Arduino/breadboard_LED"}
+					},
+					{
+						"caption": "breadboard_PWM",
+						"id": "stino_sketch_breadboard_PWM",
+						"command": "stino_open_sketch",
+						"args": {"sketch_path": "/Users/doko/Documents/Arduino/breadboard_PWM"}
+					},
+					{
+						"caption": "cds_CELL",
+						"id": "stino_sketch_cds_CELL",
+						"command": "stino_open_sketch",
+						"args": {"sketch_path": "/Users/doko/Documents/Arduino/cds_CELL"}
+					},
+					{
+						"caption": "cds_to_LED",
+						"id": "stino_sketch_cds_to_LED",
+						"command": "stino_open_sketch",
+						"args": {"sketch_path": "/Users/doko/Documents/Arduino/cds_to_LED"}
+					},
+					{
+						"caption": "ESP-WROOM-02",
+						"id": "stino_sketch_ESP-WROOM-02",
+						"command": "stino_open_sketch",
+						"args": {"sketch_path": "/Users/doko/Documents/Arduino/ESP-WROOM-02"}
+					},
+					{
+						"caption": "infrared_receiver",
+						"id": "stino_sketch_infrared_receiver",
+						"command": "stino_open_sketch",
+						"args": {"sketch_path": "/Users/doko/Documents/Arduino/infrared_receiver"}
+					},
+					{
+						"caption": "Serial_port",
+						"id": "stino_sketch_Serial_port",
+						"command": "stino_open_sketch",
+						"args": {"sketch_path": "/Users/doko/Documents/Arduino/Serial_port"}
+					},
+					{
+						"caption": "sound",
+						"id": "stino_sketch_sound",
+						"command": "stino_open_sketch",
+						"args": {"sketch_path": "/Users/doko/Documents/Arduino/sound"}
+					},
+					{
+						"caption": "test",
+						"id": "stino_sketch_test",
+						"children":
+						[
+							{"caption": "-"},
+							{
+								"caption": "aaa",
+								"id": "stino_sketch_aaa",
+								"children":
+								[
+									{"caption": "-"}								]
+							}						]
+					}
+				]
+			}
+		]
+	}
+]
