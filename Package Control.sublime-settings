@@ -5,6 +5,8 @@
 	],
 	"installed_packages":
 	[
+		"4GL",
+		"A File Icon",
 		"AdvancedNewFile",
 		"Angular2 HTML Syntax",
 		"ApacheConf.tmLanguage",

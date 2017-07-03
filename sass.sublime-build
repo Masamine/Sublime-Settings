@@ -1,0 +1,5 @@
+{
+	"cmd": ["scss", "--update", "--stop-on-error", "--no-cache", "--sourcemap=none", "--style", "compressed" ,"--watch", "./src/scss/:html/"],
+	"working_dir": "${project_path:${folder:${file_path}}}",
+	"selector": "source.scss"
+}
