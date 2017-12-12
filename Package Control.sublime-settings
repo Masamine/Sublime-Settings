@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"3D Tool (Async Burst-Mode)",
 		"4GL",
 		"A File Icon",
 		"AdvancedNewFile",
@@ -53,6 +54,8 @@
 		"Swift",
 		"Swift Foundation Completions",
 		"SyncedSideBar",
+		"Terminal",
+		"TerminalView",
 		"Theme - Cobalt2",
 		"Theme - Flatland",
 		"Theme - Freesia",
